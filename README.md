@@ -21,3 +21,4 @@ Criar uma rede simples utilizando o Cisco Packet Tracer.
 - Cisco Packet Tracer
 - IPv4
 - Redes de Computadores
+<img width="810" height="787" alt="image" src="https://github.com/user-attachments/assets/752cab64-b527-418f-8add-f9eedffaec9c" />
